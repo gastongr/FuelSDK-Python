@@ -1,4 +1,4 @@
-__version__ = '0.9.4'
+__version__ = '0.9.5'
 
 # Runtime patch the suds library
 from suds_patch import _PropertyAppender
